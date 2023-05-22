@@ -2,7 +2,7 @@
 
 - Nhiều người có những tài khoản như Facebook, Zalo, Mail... không nhớ mật khẩu là gì, gặp nhiều trở ngại trong công việc, MICROSOFT AUTHENTICATOR là một giải pháp tối ưu cho mọi người về vấn đề này.
 - Cách cài đặt:
-  - Vào CH Play bấm tìm MICROSOFT AUTHENTICATOR rồi bấm cài đặt hoặc vô đường link https://play.google.com/store/search?q=MICROSOFT%20AUTHENTICATOR&c=apps&hl=en
+  - Vào CH Play bấm tìm MICROSOFT AUTHENTICATOR rồi bấm cài đặt hoặc vô đường link https://play.google.com/store/search?q=MICROSOFT%20AUTHENTICATOR&c=apps&hl=en Nếu quí vị sử dụng Iphone thì vào link https://apps.apple.com/vn/app/microsoft-authenticator/id983156458?l=vi&culture=vi-vn&country=VN
   - ![image](https://github.com/BsNgChiThanh/Microsoft-Authenticator/assets/82578024/19b73fa6-4be2-4d20-b711-fff3968559a5)
   - Bấm cài đặt như bình thường.
   - Cài xong bạn dùng tài khoản Microsoft cá nhận để đăng ký miễn phí 100%. Nếu chưa có tài khoản Microsoft [bấm vào đây để đăng ký](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1684749678&rver=7.3.6960.0&wp=MBI_SSL&wreply=https%3a%2f%2fwww.microsoft.com%2frpsauth%2fv1%2faccount%2fSignInCallback%3fstate%3deyJSdSI6Imh0dHBzOi8vd3d3Lm1pY3Jvc29mdC5jb20vdmktdm4vIiwiTGMiOiIxMDY2IiwiSG9zdCI6Ind3dy5taWNyb3NvZnQuY29tIn0&lc=1066&id=74335&aadredir=0)
